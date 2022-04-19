@@ -1,0 +1,16 @@
+#logo{
+    height:50px;
+    width:50px;
+}
+body{
+    background-color: blue;
+}
+#total-orders{
+    background-color: red;
+}
+#orders-delivered{
+    background-color: aqua;
+}
+#orders-pending{
+    background-color: aqua;
+}
