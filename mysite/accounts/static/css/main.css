@@ -3,10 +3,10 @@
     width:50px;
 }
 body{
-    background-color: blue;
+    background-color: white;
 }
 #total-orders{
-    background-color: red;
+    background-color: aqua;
 }
 #orders-delivered{
     background-color: aqua;
